@@ -1,2 +1,2 @@
-# FeistyMurph.github.io
-My Personal Portfolio Site
+Viridarium
+First year group project - front-end web development
